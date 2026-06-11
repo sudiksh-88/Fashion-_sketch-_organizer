@@ -1,4 +1,4 @@
-# Fashion-_sketch_organizer
+# Fashion_sketch_organizer
 ## Description
 A beginner Python project for organizing fashion design ideas.
 ## Features
